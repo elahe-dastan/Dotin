@@ -1,5 +1,4 @@
-# DATIN
-A small project using hibernate
+# Dotin
 This is a simple java project which uses hibernate to connect to the database. 
 All it does is to take some information and enter it into the database and show it back to the user whenever needed.
 
